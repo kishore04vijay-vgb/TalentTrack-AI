@@ -1,60 +1,9 @@
-npm notice run sportsverse-ai@1.0.0 dev
+npm notice run TalentTrack-ai@1.0.0 dev
 npm notice run vite
+Re-optimizing dependencies because vite config has changed
 
-  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m764[22m[2m[0m ms[22m
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m1321[22m[2m[0m ms[22m
 
   [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
 [2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
 [2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
-[2m10:10:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
-[2m10:10:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/coach/Profile.tsx[22m
-[2m10:10:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Settings.tsx[22m
-[2m10:10:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx[22m
-[2m10:10:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AthleteContext.tsx, /src/pages/Settings.tsx, /src/pages/player/Career.tsx, /src/pages/player/Scholarships.tsx, /src/pages/player/Achievements.tsx, /src/pages/player/Timeline.tsx, /src/pages/player/Compare.tsx, /src/pages/player/Injury.tsx, /src/pages/player/Portfolio.tsx, /src/pages/player/Trials.tsx, /src/pages/coach/Recommendations.tsx, /src/pages/player/Notifications.tsx, /src/pages/coach/Search.tsx, /src/pages/coach/Notifications.tsx, /src/pages/coach/Applications.tsx, /src/pages/coach/Trials.tsx, /src/pages/coach/Dashboard.tsx, /src/pages/player/Resume.tsx, /src/pages/coach/PlayerProfile.tsx, /src/pages/coach/Shortlisted.tsx, /src/pages/player/Detection.tsx, /src/pages/player/Upload.tsx, /src/pages/player/Report.tsx, /src/pages/player/Training.tsx, /src/pages/coach/Profile.tsx, /src/pages/player/Dashboard.tsx, /src/pages/coach/Analytics.tsx, /src/pages/player/Learn.tsx, /src/components/Layout.tsx[22m
-[2m10:10:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
-[2m10:10:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Auth.tsx[22m
-[2m10:10:16 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Resume.tsx[22m
-[2m10:10:17 am[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AthleteContext.tsx[22m Could not Fast Refresh ("useAthlete" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
-[2m10:10:17 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/pages/Settings.tsx, /src/pages/player/Scholarships.tsx, /src/pages/player/Portfolio.tsx, /src/pages/player/Trials.tsx, /src/pages/player/Resume.tsx, /src/pages/player/Detection.tsx, /src/pages/player/Upload.tsx, /src/pages/player/Report.tsx, /src/pages/player/Training.tsx, /src/pages/player/Dashboard.tsx, /src/pages/player/Learn.tsx, /src/components/Layout.tsx[22m
-[2m10:10:27 am[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
-[2m10:13:28 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
-[2m10:13:35 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
-[2m10:13:43 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
-[2m10:13:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
-[2m10:14:09 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
-[2m10:16:37 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Settings.tsx[22m
-[2m10:16:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Auth.tsx[22m
-[2m10:16:55 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Auth.tsx[22m
-[2m10:16:59 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/coach/Trials.tsx[22m
-[2m10:17:04 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/coach/Trials.tsx[22m
-[2m10:17:09 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/coach/Trials.tsx[22m
-[2m10:19:07 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Auth.tsx[22m
-[2m10:30:31 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Settings.tsx, /src/pages/player/Career.tsx, /src/pages/player/Scholarships.tsx, /src/pages/player/Achievements.tsx, /src/pages/player/Timeline.tsx, /src/pages/player/Compare.tsx, /src/pages/player/Injury.tsx, /src/pages/player/Portfolio.tsx, /src/pages/player/Trials.tsx, /src/pages/coach/Recommendations.tsx, /src/pages/player/Notifications.tsx, /src/pages/coach/Search.tsx, /src/pages/coach/Notifications.tsx, /src/pages/coach/Applications.tsx, /src/pages/coach/Trials.tsx, /src/pages/coach/Dashboard.tsx, /src/pages/player/Resume.tsx, /src/pages/coach/PlayerProfile.tsx, /src/pages/coach/Shortlisted.tsx, /src/pages/player/Detection.tsx, /src/pages/player/Upload.tsx, /src/pages/player/Report.tsx, /src/pages/player/Training.tsx, /src/pages/coach/Profile.tsx, /src/pages/player/Dashboard.tsx, /src/pages/coach/Analytics.tsx, /src/pages/player/Learn.tsx[22m
-[2m10:30:42 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx[22m
-[2m10:30:51 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx[22m
-[2m10:31:00 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx[22m
-[2m10:31:09 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
-[2m10:31:30 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Dashboard.tsx[22m
-[2m10:31:41 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Report.tsx[22m
-[2m10:31:48 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Report.tsx[22m
-[2m10:31:54 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Report.tsx[22m
-[2m10:32:15 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Report.tsx[22m
-[2m10:35:20 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/coach/Search.tsx[22m
-[2m10:35:29 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AthleteContext.tsx, /src/pages/Settings.tsx, /src/pages/player/Career.tsx, /src/pages/player/Scholarships.tsx, /src/pages/player/Achievements.tsx, /src/pages/player/Timeline.tsx, /src/pages/player/Compare.tsx, /src/pages/player/Injury.tsx, /src/pages/player/Portfolio.tsx, /src/pages/player/Trials.tsx, /src/pages/coach/Recommendations.tsx, /src/pages/player/Notifications.tsx, /src/pages/coach/Search.tsx, /src/pages/coach/Notifications.tsx, /src/pages/coach/Applications.tsx, /src/pages/coach/Trials.tsx, /src/pages/coach/Dashboard.tsx, /src/pages/player/Resume.tsx, /src/pages/coach/PlayerProfile.tsx, /src/pages/coach/Shortlisted.tsx, /src/pages/player/Detection.tsx, /src/pages/player/Upload.tsx, /src/pages/player/Report.tsx, /src/pages/player/Training.tsx, /src/pages/coach/Profile.tsx, /src/pages/player/Dashboard.tsx, /src/pages/coach/Analytics.tsx, /src/pages/player/Learn.tsx, /src/components/Layout.tsx[22m
-[2m10:35:37 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/coach/PlayerProfile.tsx[22m
-[2m10:35:42 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/coach/PlayerProfile.tsx[22m
-[2m10:35:49 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
-[2m10:35:57 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
-[2m10:36:05 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Timeline.tsx[22m
-[2m10:36:13 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Portfolio.tsx[22m
-[2m10:36:19 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Resume.tsx[22m
-[2m10:36:26 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Upload.tsx[22m
-[2m10:36:34 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Training.tsx[22m
-[2m10:36:40 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Learn.tsx[22m
-[2m10:36:46 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Trials.tsx[22m
-[2m10:36:57 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Compare.tsx[22m
-[2m10:37:04 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Achievements.tsx[22m
-[2m10:37:28 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Dashboard.tsx[22m
-[2m10:37:34 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Dashboard.tsx[22m
-[2m10:37:40 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Dashboard.tsx[22m
-[2m10:37:45 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/player/Report.tsx[22m

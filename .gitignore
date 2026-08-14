@@ -1,25 +1,22 @@
-# Frontend
-frontend/node_modules/
+# Dependencies
+node_modules/
+
+# Frontend build
 frontend/dist/
-
-# Backend
-backend/venv/
-backend/__pycache__/
-backend/*.pyc
-
-# Environment files
-.env
-backend/.env
-frontend/.env
+frontend/dev.log
 
 # Python
+backend/.venv/
 __pycache__/
 *.pyc
 
-# IDE
-.vscode/
-.idea/
+# Environment & secrets
+.env
 
-# OS
-.DS_Store
-Thumbs.db
+# Databases
+*.db
+backend/sportsverse.db
+
+# Logs
+*.log
+uvicorn*.log
