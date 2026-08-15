@@ -1,10 +1,10 @@
-# SportsVerse AI
+# TalentTrack AI
 
-Intelligent athlete discovery, performance analytics & recruitment platform.
+AI-powered sports talent identification, athlete performance analysis, and recruitment platform.
 
 > **Vision:** Many talented athletes from villages, schools and small communities
 > never get opportunities because there aren't enough scouts and coaches.
-> SportsVerse AI helps athletes **Analyze → Learn → Improve → Track → Showcase → Get Recruited**,
+> TalentTrack AI helps athletes **Analyze → Learn → Improve → Track → Showcase → Get Recruited**,
 > and helps coaches discover, evaluate and recruit them.
 
 ## Core Product Principle
@@ -113,7 +113,7 @@ The backend runs out of the box on SQLite. To use PostgreSQL, set
 ### 3. Environment variables (backend `.env`)
 
 ```
-DATABASE_URL=sqlite:///./sportsverse.db
+DATABASE_URL=sqlite:///./talenttrack.db
 JWT_SECRET=<generate with: openssl rand -hex 32>
 CORS_ORIGINS=http://localhost:5173,http://127.0.0.1:5173
 CLOUDINARY_CLOUD_NAME=
